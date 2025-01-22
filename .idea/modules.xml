@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/java1.iml" filepath="$PROJECT_DIR$/java1.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/javastart.iml" filepath="$PROJECT_DIR$/javastart.iml" />
+>>>>>>> 4493c75f107a846e9e9eeea6ac108652c6910a10
     </modules>
   </component>
 </project>
