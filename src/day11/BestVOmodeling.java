@@ -14,6 +14,7 @@ public class BestVOmodeling {
 
         // 레벨업 : 5개의 영화를 배열로 관리하고 싶다 movieArray를 만들어 5개의 영화정보를 입력 한 후 해당 전체 영화리스트를 출력
 
+
         MovieVO[][] movieArray = new MovieVO[movieTotal][movieInfo];
 
         //3개의 영화의 상세정보목록의 개수는 3개(title, startDate, actor)
