@@ -34,7 +34,7 @@ public class WeekMain {
                 today = Week.MONDAY;
                 break;
             case 3:
-                today = Week.THUSDAY;
+                today = Week.THESDAY;
                 break;
             case 4:
                 today = Week.WEDNESDAY;
@@ -51,6 +51,7 @@ public class WeekMain {
         }
 
         if (today == Week.THURSDAY) {
+            System.out.println(today);
             System.out.println("조별 스터디가 있는날");
         } else {
             System.out.println("매일 매일 자바 혼공");

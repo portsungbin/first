@@ -7,5 +7,5 @@ public enum Week { //열거형 상수로 정의된 클래스 : 사용할 수 있
     SUNDAY,
     FRIDAY,
     SATURDAY,
-    THUSDAY
+    THESDAY
 }
